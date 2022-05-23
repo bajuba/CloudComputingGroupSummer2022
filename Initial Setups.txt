@@ -1,0 +1,13 @@
+Recommend each member get Github account if needed.
+Use initial setup docs in the CloudComputingGroupTools repo...
+    Setup AWS account
+    Setup an AWS Ubuntu server from Free Tier
+    Setup an AWS Windows 2012 R2 server from Free Tier
+Setup a Microsoft account
+Setup a Microsoft Azure account
+
+Install Local PC & AWS Ubuntu/Windows Servers with recommended development software
+Install any additional software (Update recommended software if you think you've got new tools to add)
+
+Edit Docs in CloudComputingGroupTools repo if you run into issues that aren't covered.
+  Or easier ways to get setup.

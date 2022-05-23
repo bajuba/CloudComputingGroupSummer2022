@@ -1,0 +1,4 @@
+Looking to use AWS Opensearch for some data storage.
+
+Setup AWS Opensearch cluster of your own
+Create Docs to Document steps.
